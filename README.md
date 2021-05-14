@@ -1,1 +1,3 @@
-# simple-type-writer-exercise
+# Typewriter text example
+
+A typewriter text example.
